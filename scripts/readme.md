@@ -14,7 +14,7 @@ Sample Python scripts used in library/librarian contexts.
     - Script also housed at https://github.com/smcdavi/subjectscraper.py/blob/master/subjectscraper.py
 
 
-# Where can I find/find out more?
+# Where can I find out more?
 - [Code4Lib Journal](https://journal.code4lib.org/) is a great source for library-related scripts in Python (and other coding languages). Often articles are accompanied by detailed walkthroughs, use cases, and rationales
 - The Code4Lib 2016 Pre-Conference Workshops [(find materials at https://github.com/saverkamp/measure-metadata-workshop)](https://github.com/saverkamp/measure-metadata-workshop) were centered around a theme of "Measuring Your Metadata" and included sessions and materials on
     - Using Python to assess metadata quality in MODS
